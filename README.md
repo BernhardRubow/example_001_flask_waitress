@@ -17,5 +17,13 @@ pip3 install flask waitress
 ```
 Done!
 
+### Running the application
+
+Go to the app directory and run the application by
+
+```
+python3 app.py
+```
+
 
 
